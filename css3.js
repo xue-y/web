@@ -1,8 +1,8 @@
 /*
-获取css 样式
+2个参数获取css 样式、 3个参数设置css 样式
 e --- 元素
 t --- 属性
-a --- 透明度
+a --- 设置属性的值
  */
 function css(e, t, a) {
 	if (2 == arguments.length) {
