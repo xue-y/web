@@ -1,6 +1,7 @@
 ## 微信公众号开发
+|  官方文档(https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432)
 ### 目录结构
-	old/					公众号菜单开发测试
+	old/					微信公众号菜单开发测试
 	conf.php                配置文件
 	curl.php url            请求函数
 	phpqrcode.php           php生成二维码
