@@ -11,7 +11,7 @@
 	web_login.php           浏览器输出二维码，手机扫码跳转微信端
 	wx_code.php             用户从微信客户端打开页面获取用户是否授权,必须微信端打开
 	wx_callback.php         用户授权后跳转页面获取用户信息
-	phpqrcode.zip	官网下载二维码压缩包
+	phpqrcode.zip		官网下载二维码压缩包
 
 ### 目录要求
 	生成二维码路径必须有创建写入文件权限
