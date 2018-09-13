@@ -1,3 +1,8 @@
-### 原生js 文件 一些常用的插件
- > js插件里面有调用示例与说明 <br/>
- > js插件不能直接调用，对元素有要求的有调用示例文件 插件文件名_demo.html <br/>
+# websocket
+
+#### php socket 连接
+* client_socket.php sever_socket.php
+[简单理解php的socket连接](https://www.cnblogs.com/xuey/p/8610723.html)
+#### 一个 PHP 的 websocket 的聊天室
+* client.html  server.php
+[网页实时聊天之PHP实现websocket](http://www.cnblogs.com/zhenbianshu/p/6111257.html)
