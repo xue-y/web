@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65165353-02a7-42ff-a4b2-9833b6b8b8bd" name="默认的" comment="" />
+    <ignored path="test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/backup.php" />
+        <option value="$PROJECT_DIR$/Pdo.php" />
+        <option value="$PROJECT_DIR$/MySql2.php" />
+        <option value="$PROJECT_DIR$/MySql.php" />
+        <option value="$PROJECT_DIR$/Backup.php" />
+        <option value="$PROJECT_DIR$/BackData.php" />
+        <option value="$PROJECT_DIR$/backex/MySql.php" />
+        <option value="$PROJECT_DIR$/backex/PdoSql.php" />
+        <option value="$PROJECT_DIR$/backex/Backup.php" />
+        <option value="$PROJECT_DIR$/backex/BackData.php" />
+        <option value="$PROJECT_DIR$/import/Import.php" />
+        <option value="$PROJECT_DIR$/import/MySql.php" />
+        <option value="$PROJECT_DIR$/import/PdoSql.php" />
+        <option value="$PROJECT_DIR$/curl.php" />
+        <option value="$PROJECT_DIR$/socket.php" />
+        <option value="$PROJECT_DIR$/http_get.php" />
+        <option value="$PROJECT_DIR$/curl_http.php" />
+        <option value="$PROJECT_DIR$/otherArr.php" />
+        <option value="$PROJECT_DIR$/otherArr3.php" />
+        <option value="$PROJECT_DIR$/otherArr2.php" />
+        <option value="$PROJECT_DIR$/Test.php" />
+        <option value="$PROJECT_DIR$/autoload.php" />
+        <option value="$PROJECT_DIR$/TeTest.php" />
+        <option value="$PROJECT_DIR$/Te.php" />
+        <option value="$PROJECT_DIR$/test.php.tar.php" />
+        <option value="$PROJECT_DIR$/rand_order.php" />
+        <option value="$PROJECT_DIR$/tree.php" />
+        <option value="$PROJECT_DIR$/Excel.php" />
+        <option value="$PROJECT_DIR$/excel.php" />
+        <option value="$PROJECT_DIR$/test2.php" />
+        <option value="$PROJECT_DIR$/Object.php" />
+        <option value="$PROJECT_DIR$/file/css.css" />
+        <option value="$PROJECT_DIR$/file/temp.php" />
+        <option value="$PROJECT_DIR$/file/style.css" />
+        <option value="$PROJECT_DIR$/ddic.php" />
+        <option value="$PROJECT_DIR$/File.php" />
+        <option value="$PROJECT_DIR$/PdoSql.php" />
+        <option value="$PROJECT_DIR$/Ddic.php" />
+        <option value="$PROJECT_DIR$/arrcsv/file/Compress.php" />
+        <option value="$PROJECT_DIR$/arrcsv/Compress.php" />
+        <option value="$PROJECT_DIR$/arrcsv/Data.php" />
+        <option value="$PROJECT_DIR$/Pub.php" />
+        <option value="$PROJECT_DIR$/arrcsv/test.php" />
+        <option value="$PROJECT_DIR$/arrcsv/log/error.txt" />
+        <option value="$PROJECT_DIR$/arrcsv/fetch_dome.php" />
+        <option value="$PROJECT_DIR$/arrcsv/Pub.php" />
+        <option value="$PROJECT_DIR$/arrcsv/WriteFile.php" />
+        <option value="$PROJECT_DIR$/arrcsv/FetchFile.php" />
+        <option value="$PROJECT_DIR$/arrcsv/execData.php" />
+        <option value="$PROJECT_DIR$/arrcsv/dome.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="D:\phpStudy\WWW\test" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="Configurable.PHP.PHPUnit" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../arrcsv" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="TODO_SCOPE" value="问题" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\test\arrcsv" />
+      <recent name="D:\phpStudy\WWW\test" />
+      <recent name="D:\phpStudy\WWW\test\dictionary" />
+      <recent name="D:\phpStudy\WWW\test\import\backup" />
+      <recent name="D:\phpStudy\WWW\test\import" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.otherArr3.php">
+    <configuration default="false" name="" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="otherArr3.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/test/otherArr3.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script." />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.otherArr3.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.otherArr3.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65165353-02a7-42ff-a4b2-9833b6b8b8bd" name="默认的" comment="" />
+      <created>1519290911405</created>
+      <updated>1519290911405</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="true" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="true" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32775453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32775453" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17811158" sideWeight="0.5228216" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17811158" sideWeight="0.47717842" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32775453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24320458" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32822758" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21244635" sideWeight="0.49780703" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tree2.php</url>
+          <line>38</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/test.php</url>
+          <line>39</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/curl_http.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="286" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_get.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="286" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="11" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.0" vertical-offset="924" max-vertical-offset="1430" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="11" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.0" vertical-offset="784" max-vertical-offset="1430" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsockopen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="19" selection-start="300" selection-end="309" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsock_down.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="51" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsock_getpost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="39" selection-start="1016" selection-end="1033" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="1848" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request_head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="14" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsockopen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="36" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsock_down.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="13" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="551" max-vertical-offset="1496" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsock_getpost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="139" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="1848" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request_head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="14" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curl_post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="8.5161295" vertical-offset="264" max-vertical-offset="1034" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsock_down.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="18" selection-start="351" selection-end="351" vertical-scroll-proportion="22.709677" vertical-offset="990" max-vertical-offset="1782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getcontens_referer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="27" selection-start="118" selection-end="118" vertical-scroll-proportion="0.20722134" vertical-offset="0" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsockopen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="103" selection-end="103" vertical-scroll-proportion="-0.07064364" vertical-offset="177" max-vertical-offset="1144" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsock_referer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="103" selection-end="103" vertical-scroll-proportion="0.20722134" vertical-offset="0" max-vertical-offset="1056" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curl_get.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="726" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="181" column="9" selection-start="6235" selection-end="6235" vertical-scroll-proportion="0.34901366" vertical-offset="3752" max-vertical-offset="23936" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="52" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.57511383" vertical-offset="721" max-vertical-offset="1430" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curl_http.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="0.2336874" vertical-offset="0" max-vertical-offset="659" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsock_getpost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="19" selection-start="238" selection-end="238" vertical-scroll-proportion="0.4673748" vertical-offset="0" max-vertical-offset="1848" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request_head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="162" selection-end="162" vertical-scroll-proportion="0.10015175" vertical-offset="0" max-vertical-offset="858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_get.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="100" selection-end="100" vertical-scroll-proportion="-4.967742" vertical-offset="0" max-vertical-offset="286" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/iconv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="302" column="26" selection-start="9308" selection-end="9325" vertical-scroll-proportion="0.4491654" vertical-offset="6348" max-vertical-offset="9900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/otherArr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="4" selection-start="113" selection-end="154" vertical-scroll-proportion="0.2336874" vertical-offset="0" max-vertical-offset="7040" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/otherArr2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="15" selection-start="89" selection-end="89" vertical-scroll-proportion="0.16691957" vertical-offset="0" max-vertical-offset="8272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/otherArr3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.4673748" vertical-offset="0" max-vertical-offset="9768" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rand_order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="7" selection-end="1313" vertical-scroll-proportion="0.06676783" vertical-offset="0" max-vertical-offset="1518" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/豆瓣.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="93" selection-start="1131" selection-end="1139" vertical-scroll-proportion="1.4021244" vertical-offset="0" max-vertical-offset="1474" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/百度.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="86" selection-start="1057" selection-end="1116" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="1276" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="9" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0" vertical-offset="584" max-vertical-offset="23342" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="757" column="9" selection-start="24437" selection-end="24437" vertical-scroll-proportion="-7.419355" vertical-offset="16424" max-vertical-offset="24244" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Phar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1088" column="20" selection-start="38481" selection-end="38481" vertical-scroll-proportion="0.0" vertical-offset="23936" max-vertical-offset="25410" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdo2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="5" selection-start="2692" selection-end="2692" vertical-scroll-proportion="0.0" vertical-offset="2016" max-vertical-offset="2904" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="18" selection-start="701" selection-end="701" vertical-scroll-proportion="-0.7096774" vertical-offset="726" max-vertical-offset="2508" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrcsv/Compress.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1149" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1298" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrcsv/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="31" selection-start="657" selection-end="665" vertical-scroll-proportion="0.6342944" vertical-offset="0" max-vertical-offset="659" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrcsv/Data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="479" column="5" selection-start="13087" selection-end="13087" vertical-scroll-proportion="0.6876972" vertical-offset="6318" max-vertical-offset="6952" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrcsv/log/error.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrcsv/Pub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="34" selection-start="441" selection-end="441" vertical-scroll-proportion="0.6676783" vertical-offset="0" max-vertical-offset="2882" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrcsv/fetch_dome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="183" selection-end="244" vertical-scroll-proportion="-7.806452" vertical-offset="0" max-vertical-offset="396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrcsv/WriteFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="894" selection-end="965" vertical-scroll-proportion="-9.225806" vertical-offset="462" max-vertical-offset="3828" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrcsv/ExecData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="128" selection-end="128" vertical-scroll-proportion="-4.225806" vertical-offset="89" max-vertical-offset="1540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrcsv/dome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="532" selection-end="532" vertical-scroll-proportion="-11.354838" vertical-offset="0" max-vertical-offset="638" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrcsv/FetchFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="64" selection-start="1055" selection-end="1063" vertical-scroll-proportion="0.54489166" vertical-offset="594" max-vertical-offset="6270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="12" selection-start="1985" selection-end="1985" vertical-scroll-proportion="-9.67742" vertical-offset="1240" max-vertical-offset="2750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="984" selection-end="984" vertical-scroll-proportion="-7.419355" vertical-offset="606" max-vertical-offset="1562">
+          <folding>
+            <element signature="e#6#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="8" selection-start="385" selection-end="385" vertical-scroll-proportion="-4.548387" vertical-offset="233" max-vertical-offset="7810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket/client.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="11" selection-start="3055" selection-end="3055" vertical-scroll-proportion="-3.451613" vertical-offset="2291" max-vertical-offset="4400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="12" selection-start="586" selection-end="586" vertical-scroll-proportion="0.8962264" vertical-offset="478" max-vertical-offset="1232">
+          <folding>
+            <element signature="e#6#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
