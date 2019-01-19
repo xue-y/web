@@ -41,10 +41,9 @@
     </style>
 <script type="text/javascript">
 $(function(){
-    function scr_gao(scr_ele,option){
+    function scr_gao(scr_ele,opt){
 
         var defaults={
-            attr:"margin",
             num:1,   // 一次运动的个数
             zxn:1,      // 当前元素显示几个
             direction:"top",
@@ -58,18 +57,8 @@ $(function(){
         var not_li=not_ul.find("li"); // 元素集合
         var li_len=not_li.length;
         var defalut_v;// 运动完成后停留所在位置
-        var opt=option;
+       // var opt=option;
 
-        // 根据属性不同 设置运动属性
-        if(opt.direction=="top" || opt.direction=="bottom")
-        {
-            var li_v=not_li.eq(0).outerHeight(true); // 单个子元素属性值
-
-        }else
-        {
-            var li_v=not_li.eq(0).outerWidth(true);
-            not_ul.css("width",li_v*li_len); // 如果是左右轮播定义容器宽度
-        }
         var arg=arguments.length;
 
         // 如果没有写选项参数 设置默认参数
@@ -111,6 +100,20 @@ $(function(){
                 opt.motion_type=defaults.motion_type;
             }
         }
+
+        // 设置容器属性值
+        if(opt.direction=="top" || opt.direction=="bottom")
+        {
+            var li_v=not_li.eq(0).outerHeight(true); // 单个子元素属性值
+            ele.height(opt.zxn*li_v);  // 最外层容器的宽高
+        }else
+        {
+            var li_v=not_li.eq(0).outerWidth(true);
+            not_ul.css("width",li_v*li_len); // 如果是左右轮播定义容器宽度
+            ele.width(opt.zxn*li_v);   // 最外层容器的宽高
+        }
+
+
         opt.t*=opt.num;// 运动花费的时间
 
         //如果最外面的包裹元素是展现多个子元素，但运动的是一个子元素
@@ -123,13 +126,7 @@ $(function(){
         {
             opt.zxn=opt.num;
         }
-        if(opt.direction=="top" || opt.direction=="bottom")
-        {
-            $(ele).height(opt.zxn*li_v); // 最外面元素的高度、宽度
-        }else
-        {
-            $(ele).width(opt.zxn*li_v); // 最外面元素的高度、宽度
-        }
+
 
         // 设置初始默认值
         if(opt.direction=="bottom" || opt.direction=="right")
